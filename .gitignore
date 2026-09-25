@@ -1,0 +1,37 @@
+# ---- Python 产物 ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# ---- 打包/运行时（不进仓库）----
+python/
+site-packages/
+*.dll
+*.pyd
+
+# ---- 二进制与大文件 ----
+*.exe
+*.zip
+*.rar
+*.7z
+*.msi
+
+# ---- 你的数据与输出 ----
+圣遗物输出/
+.kfzs/
+_data/
+yas_output/
+
+# ---- 密钥 / 凭据 ----
+*.pem
+*.key
+.env
+*credentials*
+*cookie*
+
+# ---- 安装器 / 临时文件 ----
+unins*
+*.tmp

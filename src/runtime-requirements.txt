@@ -1,0 +1,5 @@
+# 便携完整版内嵌 Python 运行依赖（与 backend/requirements.txt 对齐，不含 pytest）
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+httpx>=0.26.0

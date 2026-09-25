@@ -1,0 +1,2003 @@
+{
+  "tier": "standard",
+  "stat": "em",
+  "flower": [
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 16.32
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 18.65
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 20.98
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 23.31
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 32.64
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 34.97
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 37.3
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 39.63
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 44.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 46.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 48.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 51.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 62.94
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "feather": [
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 16.32
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 18.65
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 20.98
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 23.31
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 32.64
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 34.97
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 37.3
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 39.63
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 44.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 46.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 48.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 51.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 62.94
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "sand": [
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 16.32
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 18.65
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 20.98
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 23.31
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 32.64
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 34.97
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 37.3
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 39.63
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 44.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 46.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 48.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 51.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 62.94
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 28.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 35.9
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 43.79999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 51.79999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 59.7
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 67.59999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 75.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 83.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 91.4
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 99.3
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 107.19999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 115.19999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 123.09999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 131.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 138.89999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 146.89999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 154.8
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 162.699999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 170.6
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 178.6
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 186.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "cup": [
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 16.32
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 18.65
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 20.98
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 23.31
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 32.64
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 34.97
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 37.3
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 39.63
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 44.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 46.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 48.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 51.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 62.94
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 28.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 35.9
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 43.79999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 51.79999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 59.7
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 67.59999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 75.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 83.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 91.4
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 99.3
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 107.19999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 115.19999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 123.09999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 131.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 138.89999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 146.89999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 154.8
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 162.699999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 170.6
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 178.6
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 186.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "head": [
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 16.32
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 18.65
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 20.98
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 23.31
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 32.64
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 34.97
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 37.3
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 39.63
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 44.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 46.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 48.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 51.29
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "elementalMastery",
+          "value": 62.94
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 28.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 35.9
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 43.79999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 51.79999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 59.7
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 67.59999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 75.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 83.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 91.4
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 99.3
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 107.19999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 115.19999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 123.09999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 131.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 138.89999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 146.89999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 154.8
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 162.699999
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 170.6
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 178.6
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "elementalMastery",
+        "value": 186.5
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ]
+}

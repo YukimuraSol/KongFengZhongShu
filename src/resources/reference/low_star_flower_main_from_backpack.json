@@ -1,0 +1,182 @@
+{
+  "source": "桌面圣遗物 JSON（与 audit_builtin_reference 同路径）",
+  "note": "每条为背包中出现过的 花·lifeStatic 主词条；非插值、非猜测",
+  "sources": [
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\cs.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\kfd1.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.10.11.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2025.10.5.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.1.24.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.2.23.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.3.3.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.4.5.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.6.15.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.7.10.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.2026.7.11.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\sol.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\yyy2025.10.18.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\不抽满华.2026.6.30.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\南风2025.10.19.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\南风2025.10.25.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\南风2026.2.15.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\卷心菜.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\开幕雷击-精通.json",
+    "D:\\Users\\Administrator\\Desktop\\圣遗物文件\\开幕雷击.json"
+  ],
+  "by_star": {
+    "1": [
+      {
+        "level": 0,
+        "value": 129.0
+      },
+      {
+        "level": 1,
+        "value": 178.0
+      },
+      {
+        "level": 2,
+        "value": 227.0
+      },
+      {
+        "level": 3,
+        "value": 275.0
+      },
+      {
+        "level": 4,
+        "value": 324.0
+      }
+    ],
+    "2": [
+      {
+        "level": 0,
+        "value": 258.0
+      },
+      {
+        "level": 1,
+        "value": 331.0
+      },
+      {
+        "level": 2,
+        "value": 404.0
+      },
+      {
+        "level": 3,
+        "value": 478.0
+      },
+      {
+        "level": 4,
+        "value": 551.0
+      }
+    ],
+    "3": [
+      {
+        "level": 0,
+        "value": 430.0
+      },
+      {
+        "level": 1,
+        "value": 552.0
+      },
+      {
+        "level": 2,
+        "value": 674.0
+      },
+      {
+        "level": 3,
+        "value": 796.0
+      },
+      {
+        "level": 4,
+        "value": 918.0
+      },
+      {
+        "level": 5,
+        "value": 1040.0
+      },
+      {
+        "level": 6,
+        "value": 1162.0
+      },
+      {
+        "level": 7,
+        "value": 1283.0
+      },
+      {
+        "level": 12,
+        "value": 1893.0
+      }
+    ],
+    "4": [
+      {
+        "level": 0,
+        "value": 645.0
+      },
+      {
+        "level": 1,
+        "value": 828.0
+      },
+      {
+        "level": 2,
+        "value": 1011.0
+      },
+      {
+        "level": 3,
+        "value": 1194.0
+      },
+      {
+        "level": 4,
+        "value": 1377.0
+      },
+      {
+        "level": 5,
+        "value": 1559.0
+      },
+      {
+        "level": 6,
+        "value": 1742.0
+      },
+      {
+        "level": 7,
+        "value": 1925.0
+      },
+      {
+        "level": 8,
+        "value": 2108.0
+      },
+      {
+        "level": 9,
+        "value": 2291.0
+      },
+      {
+        "level": 10,
+        "value": 2474.0
+      },
+      {
+        "level": 11,
+        "value": 2657.0
+      },
+      {
+        "level": 12,
+        "value": 2839.0
+      },
+      {
+        "level": 13,
+        "value": 3022.0
+      },
+      {
+        "level": 14,
+        "value": 3205.0
+      },
+      {
+        "level": 16,
+        "value": 3571.0
+      }
+    ]
+  },
+  "complete": {
+    "4": false,
+    "3": false,
+    "2": true,
+    "1": true
+  }
+}

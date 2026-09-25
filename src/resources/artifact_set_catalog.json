@@ -1,0 +1,679 @@
+{
+  "version": 1,
+  "generated_from": {
+    "mona_core_effects": "F:\\cursor编程文件\\工作区8相关\\工作区8\\参考文件\\genshin_artifact_src\\mona_core\\src\\artifacts\\effects",
+    "gen_artifact_js": "F:\\cursor编程文件\\工作区8相关\\工作区8\\参考文件\\genshin_artifact_src\\mona_generate\\output\\_gen_artifact.js"
+  },
+  "set_count": 61,
+  "sets": [
+    {
+      "mona_setName": "CelestialGift",
+      "mona_key": "celestialGift",
+      "mona_eng": "CelestialGift",
+      "good_setKey": "CelestialGift",
+      "name2": "CelestialGift",
+      "chs": "天之美赐",
+      "internal_id": 15045,
+      "source": "extra_manual"
+    },
+    {
+      "mona_setName": "DisenchantmentInDeepShadow",
+      "mona_key": "disenchantmentInDeepShadow",
+      "mona_eng": "DisenchantmentInDeepShadow",
+      "good_setKey": "DisenchantmentInDeepShadow",
+      "name2": "DisenchantmentInDeepShadow",
+      "chs": "影中沉凝的幻灭",
+      "internal_id": 15046,
+      "source": "extra_manual"
+    },
+    {
+      "mona_setName": "AubadeOfMorningstarAndMoon",
+      "mona_key": "aubadeOfMorningstarAndMoon",
+      "mona_eng": "AubadeOfMorningstarAndMoon",
+      "good_setKey": "AubadeOfMorningstarAndMoon",
+      "name2": "AubadeOfMorningstarAndMoon",
+      "chs": "晨星与月的晓歌",
+      "internal_id": 15043,
+      "source": "extra_manual"
+    },
+    {
+      "mona_setName": "RealmMirrorNight",
+      "mona_key": "realmMirrorNight",
+      "mona_eng": "RealmMirrorNight",
+      "good_setKey": "RealmMirrorNight",
+      "name2": "RealmMirrorNight",
+      "chs": "穹境示现之夜",
+      "internal_id": 15041,
+      "source": "extra_manual"
+    },
+    {
+      "mona_setName": "SpinMoonSerenade",
+      "mona_key": "spinMoonSerenade",
+      "mona_eng": "SpinMoonSerenade",
+      "good_setKey": "SpinMoonSerenade",
+      "name2": "SpinMoonSerenade",
+      "chs": "纺月的夜歌",
+      "internal_id": 15042,
+      "source": "extra_manual"
+    },
+    {
+      "mona_setName": "ADayCarvedFromRisingWinds",
+      "mona_key": "aDayCarvedFromRisingWinds",
+      "mona_eng": "ADayCarvedFromRisingWinds",
+      "good_setKey": "ADayCarvedFromRisingWinds",
+      "name2": "ADayCarvedFromRisingWinds",
+      "chs": "风起之日",
+      "internal_id": 15044,
+      "source": "extra_manual"
+    },
+    {
+      "mona_setName": "FlowerOfParadiseLost",
+      "mona_key": "flowerOfParadiseLost",
+      "mona_eng": "FlowerOfParadiseLost",
+      "good_setKey": "FlowerOfParadiseLost",
+      "name2": "FlowerOfParadiseLost",
+      "chs": "乐园遗落之花",
+      "internal_id": 15028,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "NighttimeWhispersInTheEchoingWoods",
+      "mona_key": "nighttimeWhispersInTheEchoingWoods",
+      "mona_eng": "NighttimeWhispersInTheEchoingWoods",
+      "good_setKey": "NighttimeWhispersInTheEchoingWoods",
+      "name2": "NighttimeWhispersInTheEchoingWoods",
+      "chs": "回声之林夜话",
+      "internal_id": 15034,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "SongOfDaysPast",
+      "mona_key": "songOfDaysPast",
+      "mona_eng": "SongOfDaysPast",
+      "good_setKey": "SongOfDaysPast",
+      "name2": "SongOfDaysPast",
+      "chs": "昔时之歌",
+      "internal_id": 15033,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "UnfinishedReverie",
+      "mona_key": "unfinishedReverie",
+      "mona_eng": "UnfinishedReverie",
+      "good_setKey": "UnfinishedReverie",
+      "name2": "UnfinishedReverie",
+      "chs": "未竟的遐思",
+      "internal_id": 15036,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "NymphsDream",
+      "mona_key": "nymphsDream",
+      "mona_eng": "NymphsDream",
+      "good_setKey": "NymphsDream",
+      "name2": "NymphsDream",
+      "chs": "水仙之梦",
+      "internal_id": 15029,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "DesertPavilionChronicle",
+      "mona_key": "desertPavilionChronicle",
+      "mona_eng": "DesertPavilionChronicle",
+      "good_setKey": "DesertPavilionChronicle",
+      "name2": "DesertPavilionChronicle",
+      "chs": "沙上楼阁史话",
+      "internal_id": 15027,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "FinaleOfTheDeepGalleries",
+      "mona_key": "finaleOfTheDeepGalleries",
+      "mona_eng": "FinaleOfTheDeepGalleries",
+      "good_setKey": "FinaleOfTheDeepGalleries",
+      "name2": "FinaleOfTheDeepGalleries",
+      "chs": "深廊终曲",
+      "internal_id": 15040,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "DeepwoodMemories",
+      "mona_key": "deepwoodMemories",
+      "mona_eng": "DeepwoodMemories",
+      "good_setKey": "DeepwoodMemories",
+      "name2": "DeepwoodMemories",
+      "chs": "深林的记忆",
+      "internal_id": 15025,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "ScrollOfTheHeroOfCinderCity",
+      "mona_key": "scrollOfTheHeroOfCinderCity",
+      "mona_eng": "ScrollOfTheHeroOfCinderCity",
+      "good_setKey": "ScrollOfTheHeroOfCinderCity",
+      "name2": "ScrollOfTheHeroOfCinderCity",
+      "chs": "烬城勇者绘卷",
+      "internal_id": 15037,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "VourukashasGlow",
+      "mona_key": "vourukashasGlow",
+      "mona_eng": "VourukashasGlow",
+      "good_setKey": "VourukashasGlow",
+      "name2": "VourukashasGlow",
+      "chs": "花海甘露之光",
+      "internal_id": 15030,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "FragmentOfHarmonicWhimsy",
+      "mona_key": "fragmentOfHarmonicWhimsy",
+      "mona_eng": "FragmentOfHarmonicWhimsy",
+      "good_setKey": "FragmentOfHarmonicWhimsy",
+      "name2": "FragmentOfHarmonicWhimsy",
+      "chs": "谐律异想断章",
+      "internal_id": 15035,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "MarechausseeHunter",
+      "mona_key": "marechausseeHunter",
+      "mona_eng": "MarechausseeHunter",
+      "good_setKey": "MarechausseeHunter",
+      "name2": "MarechausseeHunter",
+      "chs": "逐影猎人",
+      "internal_id": 15031,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "LongNightsOath",
+      "mona_key": "longNightsOath",
+      "mona_eng": "LongNightsOath",
+      "good_setKey": "LongNightsOath",
+      "name2": "LongNightsOath",
+      "chs": "长夜之誓",
+      "internal_id": 15039,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "GildedDreams",
+      "mona_key": "gildedDreams",
+      "mona_eng": "GildedDreams",
+      "good_setKey": "GildedDreams",
+      "name2": "GildedDreams",
+      "chs": "饰金之梦",
+      "internal_id": 15026,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "GoldenTroupe",
+      "mona_key": "goldenTroupe",
+      "mona_eng": "GoldenTroupe",
+      "good_setKey": "GoldenTroupe",
+      "name2": "GoldenTroupe",
+      "chs": "黄金剧团",
+      "internal_id": 15032,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "ObsidianCodex",
+      "mona_key": "obsidianCodex",
+      "mona_eng": "ObsidianCodex",
+      "good_setKey": "ObsidianCodex",
+      "name2": "ObsidianCodex",
+      "chs": "黑曜秘典",
+      "internal_id": 15038,
+      "source": "mona_core"
+    },
+    {
+      "mona_setName": "adventurer",
+      "mona_key": "adventurer",
+      "mona_eng": "Adventurer",
+      "good_setKey": "Adventurer",
+      "name2": "Adventurer",
+      "chs": "冒险家",
+      "internal_id": 10010,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "adventurer"
+    },
+    {
+      "mona_setName": "blizzardStrayer",
+      "mona_key": "blizzardStrayer",
+      "mona_eng": "BlizzardStrayer",
+      "good_setKey": "BlizzardStrayer",
+      "name2": "BlizzardStrayer",
+      "chs": "冰风迷途的勇士",
+      "internal_id": 14001,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "blizzardStrayer"
+    },
+    {
+      "mona_setName": "braveHeart",
+      "mona_key": "braveHeart",
+      "mona_eng": "BraveHeart",
+      "good_setKey": "BraveHeart",
+      "name2": "BraveHeart",
+      "chs": "勇士之心",
+      "internal_id": 10002,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "braveHeart"
+    },
+    {
+      "mona_setName": "tenacityOfTheMillelith",
+      "mona_key": "tenacityOfTheMillelith",
+      "mona_eng": "TenacityOfTheMillelith",
+      "good_setKey": "TenacityOfTheMillelith",
+      "name2": "TenacityOfTheMillelith",
+      "chs": "千岩牢固",
+      "internal_id": 15017,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "tenacityOfTheMillelith"
+    },
+    {
+      "mona_setName": "huskOfOpulentDreams",
+      "mona_key": "huskOfOpulentDreams",
+      "mona_eng": "HuskOfOpulentDreams",
+      "good_setKey": "HuskOfOpulentDreams",
+      "name2": "HuskOfOpulentDreams",
+      "chs": "华馆梦醒形骸记",
+      "internal_id": 15021,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "huskOfOpulentDreams"
+    },
+    {
+      "mona_setName": "tinyMiracle",
+      "mona_key": "tinyMiracle",
+      "mona_eng": "TinyMiracle",
+      "good_setKey": "TinyMiracle",
+      "name2": "TinyMiracle",
+      "chs": "奇迹",
+      "internal_id": 10004,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "tinyMiracle"
+    },
+    {
+      "mona_setName": "thunderingFury",
+      "mona_key": "thunderingFury",
+      "mona_eng": "ThunderingFury",
+      "good_setKey": "ThunderingFury",
+      "name2": "ThunderingFury",
+      "chs": "如雷的盛怒",
+      "internal_id": 15005,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "thunderingFury"
+    },
+    {
+      "mona_setName": "scholar",
+      "mona_key": "scholar",
+      "mona_eng": "Scholar",
+      "good_setKey": "Scholar",
+      "name2": "Scholar",
+      "chs": "学士",
+      "internal_id": 10012,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "scholar"
+    },
+    {
+      "mona_setName": "defenderWill",
+      "mona_key": "defenderWill",
+      "mona_eng": "DefendersWill",
+      "good_setKey": "DefendersWill",
+      "name2": "DefendersWill",
+      "chs": "守护之心",
+      "internal_id": 10003,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "defenderWill"
+    },
+    {
+      "mona_setName": "thunderSmoother",
+      "mona_key": "thunderSmoother",
+      "mona_eng": "Thundersoother",
+      "good_setKey": "Thundersoother",
+      "name2": "Thundersoother",
+      "chs": "平息鸣雷的尊者",
+      "internal_id": 14002,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "thunderSmoother"
+    },
+    {
+      "mona_setName": "luckyDog",
+      "mona_key": "luckyDog",
+      "mona_eng": "LuckyDog",
+      "good_setKey": "LuckyDog",
+      "name2": "LuckyDog",
+      "chs": "幸运儿",
+      "internal_id": 10011,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "luckyDog"
+    },
+    {
+      "mona_setName": "archaicPetra",
+      "mona_key": "archaicPetra",
+      "mona_eng": "ArchaicPetra",
+      "good_setKey": "ArchaicPetra",
+      "name2": "ArchaicPetra",
+      "chs": "悠古的磐岩",
+      "internal_id": 15014,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "archaicPetra"
+    },
+    {
+      "mona_setName": "berserker",
+      "mona_key": "berserker",
+      "mona_eng": "Berserker",
+      "good_setKey": "Berserker",
+      "name2": "Berserker",
+      "chs": "战狂",
+      "internal_id": 10005,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "berserker"
+    },
+    {
+      "mona_setName": "instructor",
+      "mona_key": "instructor",
+      "mona_eng": "Instructor",
+      "good_setKey": "Instructor",
+      "name2": "Instructor",
+      "chs": "教官",
+      "internal_id": 10007,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "instructor"
+    },
+    {
+      "mona_setName": "noblesseOblige",
+      "mona_key": "noblesseOblige",
+      "mona_eng": "NoblesseOblige",
+      "good_setKey": "NoblesseOblige",
+      "name2": "NoblesseOblige",
+      "chs": "昔日宗室之仪",
+      "internal_id": 15007,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "noblesseOblige"
+    },
+    {
+      "mona_setName": "EchoesOfAnOffering",
+      "mona_key": "echoesOfAnOffering",
+      "mona_eng": "EchoesOfAnOffering",
+      "good_setKey": "EchoesOfAnOffering",
+      "name2": "EchoesOfAnOffering",
+      "chs": "来歆余响",
+      "internal_id": 15024,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "EchoesOfAnOffering"
+    },
+    {
+      "mona_setName": "bloodstainedChivalry",
+      "mona_key": "bloodstainedChivalry",
+      "mona_eng": "BloodstainedChivalry",
+      "good_setKey": "BloodstainedChivalry",
+      "name2": "BloodstainedChivalry",
+      "chs": "染血的骑士道",
+      "internal_id": 15008,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "bloodstainedChivalry"
+    },
+    {
+      "mona_setName": "martialArtist",
+      "mona_key": "martialArtist",
+      "mona_eng": "MartialArtist",
+      "good_setKey": "MartialArtist",
+      "name2": "MartialArtist",
+      "chs": "武人",
+      "internal_id": 10006,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "martialArtist"
+    },
+    {
+      "mona_setName": "heartOfDepth",
+      "mona_key": "heartOfDepth",
+      "mona_eng": "HeartOfDepth",
+      "good_setKey": "HeartOfDepth",
+      "name2": "HeartOfDepth",
+      "chs": "沉沦之心",
+      "internal_id": 15016,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "heartOfDepth"
+    },
+    {
+      "mona_setName": "exile",
+      "mona_key": "exile",
+      "mona_eng": "TheExile",
+      "good_setKey": "TheExile",
+      "name2": "TheExile",
+      "chs": "流放者",
+      "internal_id": 10009,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "exile"
+    },
+    {
+      "mona_setName": "wandererTroupe",
+      "mona_key": "wandererTroupe",
+      "mona_eng": "WanderersTroupe",
+      "good_setKey": "WanderersTroupe",
+      "name2": "WanderersTroupe",
+      "chs": "流浪大地的乐团",
+      "internal_id": 15003,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "wandererTroupe"
+    },
+    {
+      "mona_setName": "oceanHuedClam",
+      "mona_key": "oceanHuedClam",
+      "mona_eng": "OceanHuedClam",
+      "good_setKey": "OceanHuedClam",
+      "name2": "OceanHuedClam",
+      "chs": "海染砗磲",
+      "internal_id": 15022,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "oceanHuedClam"
+    },
+    {
+      "mona_setName": "lavaWalker",
+      "mona_key": "lavaWalker",
+      "mona_eng": "Lavawalker",
+      "good_setKey": "Lavawalker",
+      "name2": "Lavawalker",
+      "chs": "渡过烈火的贤人",
+      "internal_id": 14003,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "lavaWalker"
+    },
+    {
+      "mona_setName": "travelingDoctor",
+      "mona_key": "travelingDoctor",
+      "mona_eng": "TravelingDoctor",
+      "good_setKey": "TravelingDoctor",
+      "name2": "TravelingDoctor",
+      "chs": "游医",
+      "internal_id": 10013,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "travelingDoctor"
+    },
+    {
+      "mona_setName": "crimsonWitch",
+      "mona_key": "crimsonWitch",
+      "mona_eng": "CrimsonWitchOfFlames",
+      "good_setKey": "CrimsonWitchOfFlames",
+      "name2": "CrimsonWitchOfFlames",
+      "chs": "炽烈的炎之魔女",
+      "internal_id": 15006,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "crimsonWitch"
+    },
+    {
+      "mona_setName": "prayersToSpringtime",
+      "mona_key": "prayersToSpringtime",
+      "mona_eng": "PrayersToSpringtime",
+      "good_setKey": "PrayersToSpringtime",
+      "name2": "PrayersToSpringtime",
+      "chs": "祭冰之人",
+      "internal_id": 15013,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "prayersToSpringtime"
+    },
+    {
+      "mona_setName": "prayersForDestiny",
+      "mona_key": "prayersForDestiny",
+      "mona_eng": "PrayersForDestiny",
+      "good_setKey": "PrayersForDestiny",
+      "name2": "PrayersForDestiny",
+      "chs": "祭水之人",
+      "internal_id": 15010,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "prayersForDestiny"
+    },
+    {
+      "mona_setName": "prayersForIllumination",
+      "mona_key": "prayersForIllumination",
+      "mona_eng": "PrayersForIllumination",
+      "good_setKey": "PrayersForIllumination",
+      "name2": "PrayersForIllumination",
+      "chs": "祭火之人",
+      "internal_id": 15009,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "prayersForIllumination"
+    },
+    {
+      "mona_setName": "prayersForWisdom",
+      "mona_key": "prayersForWisdom",
+      "mona_eng": "PrayersForWisdom",
+      "good_setKey": "PrayersForWisdom",
+      "name2": "PrayersForWisdom",
+      "chs": "祭雷之人",
+      "internal_id": 15011,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "prayersForWisdom"
+    },
+    {
+      "mona_setName": "emblemOfSeveredFate",
+      "mona_key": "emblemOfSeveredFate",
+      "mona_eng": "EmblemOfSeveredFate",
+      "good_setKey": "EmblemOfSeveredFate",
+      "name2": "EmblemOfSeveredFate",
+      "chs": "绝缘之旗印",
+      "internal_id": 15020,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "emblemOfSeveredFate"
+    },
+    {
+      "mona_setName": "viridescentVenerer",
+      "mona_key": "viridescentVenerer",
+      "mona_eng": "ViridescentVenerer",
+      "good_setKey": "ViridescentVenerer",
+      "name2": "ViridescentVenerer",
+      "chs": "翠绿之影",
+      "internal_id": 15002,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "viridescentVenerer"
+    },
+    {
+      "mona_setName": "paleFlame",
+      "mona_key": "paleFlame",
+      "mona_eng": "PaleFlame",
+      "good_setKey": "PaleFlame",
+      "name2": "PaleFlame",
+      "chs": "苍白之火",
+      "internal_id": 15018,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "paleFlame"
+    },
+    {
+      "mona_setName": "resolutionOfSojourner",
+      "mona_key": "resolutionOfSojourner",
+      "mona_eng": "ResolutionOfSojourner",
+      "good_setKey": "ResolutionOfSojourner",
+      "name2": "ResolutionOfSojourner",
+      "chs": "行者之心",
+      "internal_id": 10001,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "resolutionOfSojourner"
+    },
+    {
+      "mona_setName": "maidenBeloved",
+      "mona_key": "maidenBeloved",
+      "mona_eng": "MaidenBeloved",
+      "good_setKey": "MaidenBeloved",
+      "name2": "MaidenBeloved",
+      "chs": "被怜爱的少女",
+      "internal_id": 14004,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "maidenBeloved"
+    },
+    {
+      "mona_setName": "gladiatorFinale",
+      "mona_key": "gladiatorFinale",
+      "mona_eng": "GladiatorsFinale",
+      "good_setKey": "GladiatorsFinale",
+      "name2": "GladiatorsFinale",
+      "chs": "角斗士的终幕礼",
+      "internal_id": 15001,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "gladiatorFinale"
+    },
+    {
+      "mona_setName": "gambler",
+      "mona_key": "gambler",
+      "mona_eng": "Gambler",
+      "good_setKey": "Gambler",
+      "name2": "Gambler",
+      "chs": "赌徒",
+      "internal_id": 10008,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "gambler"
+    },
+    {
+      "mona_setName": "VermillionHereafter",
+      "mona_key": "vermillionHereafter",
+      "mona_eng": "VermillionHereafter",
+      "good_setKey": "VermillionHereafter",
+      "name2": "VermillionHereafter",
+      "chs": "辰砂往生录",
+      "internal_id": 15023,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "VermillionHereafter"
+    },
+    {
+      "mona_setName": "shimenawaReminiscence",
+      "mona_key": "shimenawaReminiscence",
+      "mona_eng": "ShimenawasReminiscence",
+      "good_setKey": "ShimenawasReminiscence",
+      "name2": "ShimenawasReminiscence",
+      "chs": "追忆之注连",
+      "internal_id": 15019,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "shimenawaReminiscence"
+    },
+    {
+      "mona_setName": "retracingBolide",
+      "mona_key": "retracingBolide",
+      "mona_eng": "RetracingBolide",
+      "good_setKey": "RetracingBolide",
+      "name2": "RetracingBolide",
+      "chs": "逆飞的流星",
+      "internal_id": 15015,
+      "source": "mona_core+gen_artifact",
+      "gen_artifact_key": "retracingBolide"
+    }
+  ],
+  "irminsul_aliases": {
+    "SilkenMoonsSerenade": "SpinMoonSerenade",
+    "NightOfTheSkysUnveiling": "RealmMirrorNight"
+  },
+  "irminsul_alias_notes": {
+    "SilkenMoonsSerenade": "Irminsul v0.1.x GOOD export; Mona/YAS use SpinMoonSerenade",
+    "NightOfTheSkysUnveiling": "Irminsul v0.1.x GOOD export; Mona/YAS use RealmMirrorNight (same CN: 穹境示现之夜)"
+  },
+  "irminsul_alias_details": [
+    {
+      "irminsul_setKey": "SilkenMoonsSerenade",
+      "mona_setName": "SpinMoonSerenade",
+      "chs": "纺月的夜歌"
+    },
+    {
+      "irminsul_setKey": "NightOfTheSkysUnveiling",
+      "mona_setName": "RealmMirrorNight",
+      "chs": "穹境示现之夜"
+    }
+  ]
+}

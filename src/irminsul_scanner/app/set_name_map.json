@@ -1,0 +1,443 @@
+{
+  "version": 2,
+  "catalog_source": "F:\\cursor编程文件\\工作区8相关\\工作区8\\最终交付\\控分中枢\\resources\\artifact_set_catalog.json",
+  "set_count": 61,
+  "good_setKey_to_mona_setName": {
+    "CelestialGift": "HeavensGift",
+    "HeavensGift": "HeavensGift",
+    "DisenchantmentInDeepShadow": "DisenchantmentInDeepShadow",
+    "AubadeOfMorningstarAndMoon": "AubadeOfMorningstarAndMoon",
+    "RealmMirrorNight": "RealmMirrorNight",
+    "SpinMoonSerenade": "SpinMoonSerenade",
+    "ADayCarvedFromRisingWinds": "ADayCarvedFromRisingWinds",
+    "FlowerOfParadiseLost": "FlowerOfParadiseLost",
+    "NighttimeWhispersInTheEchoingWoods": "NighttimeWhispersInTheEchoingWoods",
+    "SongOfDaysPast": "SongOfDaysPast",
+    "UnfinishedReverie": "UnfinishedReverie",
+    "NymphsDream": "NymphsDream",
+    "DesertPavilionChronicle": "DesertPavilionChronicle",
+    "FinaleOfTheDeepGalleries": "FinaleOfTheDeepGalleries",
+    "DeepwoodMemories": "DeepwoodMemories",
+    "ScrollOfTheHeroOfCinderCity": "ScrollOfTheHeroOfCinderCity",
+    "VourukashasGlow": "VourukashasGlow",
+    "FragmentOfHarmonicWhimsy": "FragmentOfHarmonicWhimsy",
+    "MarechausseeHunter": "MarechausseeHunter",
+    "LongNightsOath": "LongNightsOath",
+    "GildedDreams": "GildedDreams",
+    "GoldenTroupe": "GoldenTroupe",
+    "ObsidianCodex": "ObsidianCodex",
+    "Adventurer": "adventurer",
+    "BlizzardStrayer": "blizzardStrayer",
+    "BraveHeart": "braveHeart",
+    "TenacityOfTheMillelith": "tenacityOfTheMillelith",
+    "HuskOfOpulentDreams": "huskOfOpulentDreams",
+    "TinyMiracle": "tinyMiracle",
+    "ThunderingFury": "thunderingFury",
+    "Scholar": "scholar",
+    "DefendersWill": "defenderWill",
+    "Thundersoother": "thunderSmoother",
+    "LuckyDog": "luckyDog",
+    "ArchaicPetra": "archaicPetra",
+    "Berserker": "berserker",
+    "Instructor": "instructor",
+    "NoblesseOblige": "noblesseOblige",
+    "EchoesOfAnOffering": "EchoesOfAnOffering",
+    "BloodstainedChivalry": "bloodstainedChivalry",
+    "MartialArtist": "martialArtist",
+    "HeartOfDepth": "heartOfDepth",
+    "TheExile": "exile",
+    "WanderersTroupe": "wandererTroupe",
+    "OceanHuedClam": "oceanHuedClam",
+    "Lavawalker": "lavaWalker",
+    "TravelingDoctor": "travelingDoctor",
+    "CrimsonWitchOfFlames": "crimsonWitch",
+    "PrayersToSpringtime": "prayersToSpringtime",
+    "PrayersForDestiny": "prayersForDestiny",
+    "PrayersForIllumination": "prayersForIllumination",
+    "PrayersForWisdom": "prayersForWisdom",
+    "EmblemOfSeveredFate": "emblemOfSeveredFate",
+    "ViridescentVenerer": "viridescentVenerer",
+    "PaleFlame": "paleFlame",
+    "ResolutionOfSojourner": "resolutionOfSojourner",
+    "MaidenBeloved": "maidenBeloved",
+    "GladiatorsFinale": "gladiatorFinale",
+    "Gambler": "gambler",
+    "VermillionHereafter": "VermillionHereafter",
+    "ShimenawasReminiscence": "shimenawaReminiscence",
+    "RetracingBolide": "retracingBolide",
+    "SilkenMoonsSerenade": "SpinMoonSerenade",
+    "NightOfTheSkysUnveiling": "RealmMirrorNight"
+  },
+  "sets": [
+    {
+      "good_setKey": "CelestialGift",
+      "mona_setName": "HeavensGift",
+      "chs": "天之美赐",
+      "internal_id": 15045
+    },
+    {
+      "good_setKey": "DisenchantmentInDeepShadow",
+      "mona_setName": "DisenchantmentInDeepShadow",
+      "chs": "影中沉凝的幻灭",
+      "internal_id": 15046
+    },
+    {
+      "good_setKey": "AubadeOfMorningstarAndMoon",
+      "mona_setName": "AubadeOfMorningstarAndMoon",
+      "chs": "晨星与月的晓歌",
+      "internal_id": 15043
+    },
+    {
+      "good_setKey": "RealmMirrorNight",
+      "mona_setName": "RealmMirrorNight",
+      "chs": "穹境示现之夜",
+      "internal_id": 15041
+    },
+    {
+      "good_setKey": "SpinMoonSerenade",
+      "mona_setName": "SpinMoonSerenade",
+      "chs": "纺月的夜歌",
+      "internal_id": 15042
+    },
+    {
+      "good_setKey": "ADayCarvedFromRisingWinds",
+      "mona_setName": "ADayCarvedFromRisingWinds",
+      "chs": "风起之日",
+      "internal_id": 15044
+    },
+    {
+      "good_setKey": "FlowerOfParadiseLost",
+      "mona_setName": "FlowerOfParadiseLost",
+      "chs": "乐园遗落之花",
+      "internal_id": 15028
+    },
+    {
+      "good_setKey": "NighttimeWhispersInTheEchoingWoods",
+      "mona_setName": "NighttimeWhispersInTheEchoingWoods",
+      "chs": "回声之林夜话",
+      "internal_id": 15034
+    },
+    {
+      "good_setKey": "SongOfDaysPast",
+      "mona_setName": "SongOfDaysPast",
+      "chs": "昔时之歌",
+      "internal_id": 15033
+    },
+    {
+      "good_setKey": "UnfinishedReverie",
+      "mona_setName": "UnfinishedReverie",
+      "chs": "未竟的遐思",
+      "internal_id": 15036
+    },
+    {
+      "good_setKey": "NymphsDream",
+      "mona_setName": "NymphsDream",
+      "chs": "水仙之梦",
+      "internal_id": 15029
+    },
+    {
+      "good_setKey": "DesertPavilionChronicle",
+      "mona_setName": "DesertPavilionChronicle",
+      "chs": "沙上楼阁史话",
+      "internal_id": 15027
+    },
+    {
+      "good_setKey": "FinaleOfTheDeepGalleries",
+      "mona_setName": "FinaleOfTheDeepGalleries",
+      "chs": "深廊终曲",
+      "internal_id": 15040
+    },
+    {
+      "good_setKey": "DeepwoodMemories",
+      "mona_setName": "DeepwoodMemories",
+      "chs": "深林的记忆",
+      "internal_id": 15025
+    },
+    {
+      "good_setKey": "ScrollOfTheHeroOfCinderCity",
+      "mona_setName": "ScrollOfTheHeroOfCinderCity",
+      "chs": "烬城勇者绘卷",
+      "internal_id": 15037
+    },
+    {
+      "good_setKey": "VourukashasGlow",
+      "mona_setName": "VourukashasGlow",
+      "chs": "花海甘露之光",
+      "internal_id": 15030
+    },
+    {
+      "good_setKey": "FragmentOfHarmonicWhimsy",
+      "mona_setName": "FragmentOfHarmonicWhimsy",
+      "chs": "谐律异想断章",
+      "internal_id": 15035
+    },
+    {
+      "good_setKey": "MarechausseeHunter",
+      "mona_setName": "MarechausseeHunter",
+      "chs": "逐影猎人",
+      "internal_id": 15031
+    },
+    {
+      "good_setKey": "LongNightsOath",
+      "mona_setName": "LongNightsOath",
+      "chs": "长夜之誓",
+      "internal_id": 15039
+    },
+    {
+      "good_setKey": "GildedDreams",
+      "mona_setName": "GildedDreams",
+      "chs": "饰金之梦",
+      "internal_id": 15026
+    },
+    {
+      "good_setKey": "GoldenTroupe",
+      "mona_setName": "GoldenTroupe",
+      "chs": "黄金剧团",
+      "internal_id": 15032
+    },
+    {
+      "good_setKey": "ObsidianCodex",
+      "mona_setName": "ObsidianCodex",
+      "chs": "黑曜秘典",
+      "internal_id": 15038
+    },
+    {
+      "good_setKey": "Adventurer",
+      "mona_setName": "adventurer",
+      "chs": "冒险家",
+      "internal_id": 10010
+    },
+    {
+      "good_setKey": "BlizzardStrayer",
+      "mona_setName": "blizzardStrayer",
+      "chs": "冰风迷途的勇士",
+      "internal_id": 14001
+    },
+    {
+      "good_setKey": "BraveHeart",
+      "mona_setName": "braveHeart",
+      "chs": "勇士之心",
+      "internal_id": 10002
+    },
+    {
+      "good_setKey": "TenacityOfTheMillelith",
+      "mona_setName": "tenacityOfTheMillelith",
+      "chs": "千岩牢固",
+      "internal_id": 15017
+    },
+    {
+      "good_setKey": "HuskOfOpulentDreams",
+      "mona_setName": "huskOfOpulentDreams",
+      "chs": "华馆梦醒形骸记",
+      "internal_id": 15021
+    },
+    {
+      "good_setKey": "TinyMiracle",
+      "mona_setName": "tinyMiracle",
+      "chs": "奇迹",
+      "internal_id": 10004
+    },
+    {
+      "good_setKey": "ThunderingFury",
+      "mona_setName": "thunderingFury",
+      "chs": "如雷的盛怒",
+      "internal_id": 15005
+    },
+    {
+      "good_setKey": "Scholar",
+      "mona_setName": "scholar",
+      "chs": "学士",
+      "internal_id": 10012
+    },
+    {
+      "good_setKey": "DefendersWill",
+      "mona_setName": "defenderWill",
+      "chs": "守护之心",
+      "internal_id": 10003
+    },
+    {
+      "good_setKey": "Thundersoother",
+      "mona_setName": "thunderSmoother",
+      "chs": "平息鸣雷的尊者",
+      "internal_id": 14002
+    },
+    {
+      "good_setKey": "LuckyDog",
+      "mona_setName": "luckyDog",
+      "chs": "幸运儿",
+      "internal_id": 10011
+    },
+    {
+      "good_setKey": "ArchaicPetra",
+      "mona_setName": "archaicPetra",
+      "chs": "悠古的磐岩",
+      "internal_id": 15014
+    },
+    {
+      "good_setKey": "Berserker",
+      "mona_setName": "berserker",
+      "chs": "战狂",
+      "internal_id": 10005
+    },
+    {
+      "good_setKey": "Instructor",
+      "mona_setName": "instructor",
+      "chs": "教官",
+      "internal_id": 10007
+    },
+    {
+      "good_setKey": "NoblesseOblige",
+      "mona_setName": "noblesseOblige",
+      "chs": "昔日宗室之仪",
+      "internal_id": 15007
+    },
+    {
+      "good_setKey": "EchoesOfAnOffering",
+      "mona_setName": "EchoesOfAnOffering",
+      "chs": "来歆余响",
+      "internal_id": 15024
+    },
+    {
+      "good_setKey": "BloodstainedChivalry",
+      "mona_setName": "bloodstainedChivalry",
+      "chs": "染血的骑士道",
+      "internal_id": 15008
+    },
+    {
+      "good_setKey": "MartialArtist",
+      "mona_setName": "martialArtist",
+      "chs": "武人",
+      "internal_id": 10006
+    },
+    {
+      "good_setKey": "HeartOfDepth",
+      "mona_setName": "heartOfDepth",
+      "chs": "沉沦之心",
+      "internal_id": 15016
+    },
+    {
+      "good_setKey": "TheExile",
+      "mona_setName": "exile",
+      "chs": "流放者",
+      "internal_id": 10009
+    },
+    {
+      "good_setKey": "WanderersTroupe",
+      "mona_setName": "wandererTroupe",
+      "chs": "流浪大地的乐团",
+      "internal_id": 15003
+    },
+    {
+      "good_setKey": "OceanHuedClam",
+      "mona_setName": "oceanHuedClam",
+      "chs": "海染砗磲",
+      "internal_id": 15022
+    },
+    {
+      "good_setKey": "Lavawalker",
+      "mona_setName": "lavaWalker",
+      "chs": "渡过烈火的贤人",
+      "internal_id": 14003
+    },
+    {
+      "good_setKey": "TravelingDoctor",
+      "mona_setName": "travelingDoctor",
+      "chs": "游医",
+      "internal_id": 10013
+    },
+    {
+      "good_setKey": "CrimsonWitchOfFlames",
+      "mona_setName": "crimsonWitch",
+      "chs": "炽烈的炎之魔女",
+      "internal_id": 15006
+    },
+    {
+      "good_setKey": "PrayersToSpringtime",
+      "mona_setName": "prayersToSpringtime",
+      "chs": "祭冰之人",
+      "internal_id": 15013
+    },
+    {
+      "good_setKey": "PrayersForDestiny",
+      "mona_setName": "prayersForDestiny",
+      "chs": "祭水之人",
+      "internal_id": 15010
+    },
+    {
+      "good_setKey": "PrayersForIllumination",
+      "mona_setName": "prayersForIllumination",
+      "chs": "祭火之人",
+      "internal_id": 15009
+    },
+    {
+      "good_setKey": "PrayersForWisdom",
+      "mona_setName": "prayersForWisdom",
+      "chs": "祭雷之人",
+      "internal_id": 15011
+    },
+    {
+      "good_setKey": "EmblemOfSeveredFate",
+      "mona_setName": "emblemOfSeveredFate",
+      "chs": "绝缘之旗印",
+      "internal_id": 15020
+    },
+    {
+      "good_setKey": "ViridescentVenerer",
+      "mona_setName": "viridescentVenerer",
+      "chs": "翠绿之影",
+      "internal_id": 15002
+    },
+    {
+      "good_setKey": "PaleFlame",
+      "mona_setName": "paleFlame",
+      "chs": "苍白之火",
+      "internal_id": 15018
+    },
+    {
+      "good_setKey": "ResolutionOfSojourner",
+      "mona_setName": "resolutionOfSojourner",
+      "chs": "行者之心",
+      "internal_id": 10001
+    },
+    {
+      "good_setKey": "MaidenBeloved",
+      "mona_setName": "maidenBeloved",
+      "chs": "被怜爱的少女",
+      "internal_id": 14004
+    },
+    {
+      "good_setKey": "GladiatorsFinale",
+      "mona_setName": "gladiatorFinale",
+      "chs": "角斗士的终幕礼",
+      "internal_id": 15001
+    },
+    {
+      "good_setKey": "Gambler",
+      "mona_setName": "gambler",
+      "chs": "赌徒",
+      "internal_id": 10008
+    },
+    {
+      "good_setKey": "VermillionHereafter",
+      "mona_setName": "VermillionHereafter",
+      "chs": "辰砂往生录",
+      "internal_id": 15023
+    },
+    {
+      "good_setKey": "ShimenawasReminiscence",
+      "mona_setName": "shimenawaReminiscence",
+      "chs": "追忆之注连",
+      "internal_id": 15019
+    },
+    {
+      "good_setKey": "RetracingBolide",
+      "mona_setName": "retracingBolide",
+      "chs": "逆飞的流星",
+      "internal_id": 15015
+    }
+  ],
+  "irminsul_aliases": {
+    "SilkenMoonsSerenade": "SpinMoonSerenade",
+    "NightOfTheSkysUnveiling": "RealmMirrorNight"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-24T10:02:42.125533+00:00",
+  "source_export": "F:\\main_gap_survey_results (1).json",
+  "flower": {
+    "4": [
+      {
+        "level": 15,
+        "value": 3388.0
+      }
+    ],
+    "3": [
+      {
+        "level": 8,
+        "value": 1405.0
+      },
+      {
+        "level": 9,
+        "value": 1527.0
+      },
+      {
+        "level": 10,
+        "value": 1649.0
+      },
+      {
+        "level": 11,
+        "value": 1771.0
+      }
+    ]
+  },
+  "feather": {
+    "4": [
+      {
+        "level": 1,
+        "value": 54.0
+      },
+      {
+        "level": 2,
+        "value": 66.0
+      },
+      {
+        "level": 3,
+        "value": 78.0
+      },
+      {
+        "level": 4,
+        "value": 90.0
+      },
+      {
+        "level": 5,
+        "value": 102.0
+      },
+      {
+        "level": 6,
+        "value": 113.0
+      },
+      {
+        "level": 7,
+        "value": 125.0
+      },
+      {
+        "level": 9,
+        "value": 149.0
+      },
+      {
+        "level": 10,
+        "value": 161.0
+      },
+      {
+        "level": 11,
+        "value": 173.0
+      },
+      {
+        "level": 12,
+        "value": 185.0
+      },
+      {
+        "level": 13,
+        "value": 197.0
+      },
+      {
+        "level": 14,
+        "value": 209.0
+      },
+      {
+        "level": 15,
+        "value": 221.0
+      }
+    ],
+    "3": [
+      {
+        "level": 1,
+        "value": 36.0
+      },
+      {
+        "level": 2,
+        "value": 44.0
+      },
+      {
+        "level": 3,
+        "value": 52.0
+      },
+      {
+        "level": 5,
+        "value": 68.0
+      },
+      {
+        "level": 6,
+        "value": 76.0
+      },
+      {
+        "level": 7,
+        "value": 84.0
+      },
+      {
+        "level": 8,
+        "value": 91.0
+      },
+      {
+        "level": 9,
+        "value": 99.0
+      },
+      {
+        "level": 10,
+        "value": 107.0
+      },
+      {
+        "level": 11,
+        "value": 115.0
+      },
+      {
+        "level": 12,
+        "value": 123.0
+      }
+    ],
+    "2": [
+      {
+        "level": 1,
+        "value": 22.0
+      },
+      {
+        "level": 2,
+        "value": 31.0
+      },
+      {
+        "level": 3,
+        "value": 36.0
+      }
+    ]
+  }
+}

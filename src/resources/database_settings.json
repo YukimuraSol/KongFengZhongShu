@@ -1,0 +1,57 @@
+{
+  "version": "v0.1-initial",
+  "equip_rules": {
+    "bonus_by_set": {
+      "set1": 30,
+      "set2": 10
+    }
+  },
+  "database_settings": {
+    "5": {
+      "hp_sub": {
+        "mode": "custom",
+        "display_precision": 1.0,
+        "max_diff": 0.01,
+        "mapping": []
+      },
+      "hp_percent_sub": {
+        "mode": "custom",
+        "display_precision": 0.001,
+        "max_diff": 5e-05,
+        "mapping": []
+      }
+    }
+  },
+  "equip_settings": {
+    "positions": {
+      "flower": true,
+      "plume": true,
+      "sands": true,
+      "goblet": true,
+      "circlet": true
+    },
+    "tolerance": 50.0,
+    "algorithm": "optimized",
+    "step": 0.5,
+    "target_percent": 90.0,
+    "auto_step": 0.5,
+    "multi_solution_mode": "exclude",
+    "result_precision": 0.01,
+    "result_precision_hp": 0.01,
+    "result_precision_atk": 0.01,
+    "result_precision_def": 0.01,
+    "result_precision_em": 0.01
+  },
+  "yas_settings": {
+    "scanner_path": "",
+    "output_dir": "",
+    "min_star": 1,
+    "max_row": ""
+  },
+  "irm_settings": {
+    "output_dir": "",
+    "min_star": 1,
+    "auto_stop_export_on_items": true,
+    "delete_good_after_convert": true
+  }
+}

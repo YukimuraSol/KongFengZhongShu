@@ -1,0 +1,1689 @@
+{
+  "version": 2,
+  "icon_base": "https://upload-bbs.mihoyo.com/game_record/genshin/equip/{}.png",
+  "hash_base": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u9b0pg/{}.png",
+  "mirror_base": "https://homdgcat.wiki/homdgcat-res/Relic/{}.png",
+  "sets": {
+    "adventurer": {
+      "eng": "adventurer",
+      "chs": "冒险家",
+      "slots": {
+        "flower": {
+          "chs": "冒险家之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10010_4.png"
+        },
+        "plume": {
+          "chs": "冒险家尾羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10010_2.png"
+        },
+        "sands": {
+          "chs": "冒险家怀表",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10010_5.png"
+        },
+        "goblet": {
+          "chs": "冒险家金杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10010_1.png"
+        },
+        "circlet": {
+          "chs": "冒险家头带",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10010_3.png"
+        }
+      }
+    },
+    "archaicPetra": {
+      "eng": "archaicPetra",
+      "chs": "悠古的磐岩",
+      "slots": {
+        "flower": {
+          "chs": "磐陀裂生之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15014_4.png"
+        },
+        "plume": {
+          "chs": "嵯峨群峰之翼",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15014_2.png"
+        },
+        "sands": {
+          "chs": "星罗圭璧之晷",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15014_5.png"
+        },
+        "goblet": {
+          "chs": "巉岩琢塑之樽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15014_1.png"
+        },
+        "circlet": {
+          "chs": "不动玄石之相",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15014_3.png"
+        }
+      }
+    },
+    "berserker": {
+      "eng": "berserker",
+      "chs": "战狂",
+      "slots": {
+        "flower": {
+          "chs": "战狂的蔷薇",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10005_4.png"
+        },
+        "plume": {
+          "chs": "战狂的翎羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10005_2.png"
+        },
+        "sands": {
+          "chs": "战狂的时计",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10005_5.png"
+        },
+        "goblet": {
+          "chs": "战狂的骨杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10005_1.png"
+        },
+        "circlet": {
+          "chs": "战狂的鬼面",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10005_3.png"
+        }
+      }
+    },
+    "blizzardStrayer": {
+      "eng": "blizzardStrayer",
+      "chs": "冰风迷途的勇士",
+      "slots": {
+        "flower": {
+          "chs": "历经风雪的思念",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14001_4.png"
+        },
+        "plume": {
+          "chs": "摧冰而行的执望",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14001_2.png"
+        },
+        "sands": {
+          "chs": "冰雪故园的终期",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14001_5.png"
+        },
+        "goblet": {
+          "chs": "遍结寒霜的傲骨",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14001_1.png"
+        },
+        "circlet": {
+          "chs": "破冰踏雪的回音",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14001_3.png"
+        }
+      }
+    },
+    "bloodstainedChivalry": {
+      "eng": "bloodstainedChivalry",
+      "chs": "染血的骑士道",
+      "slots": {
+        "flower": {
+          "chs": "染血的铁之心",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15008_4.png"
+        },
+        "plume": {
+          "chs": "染血的黑之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15008_2.png"
+        },
+        "sands": {
+          "chs": "骑士染血之时",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15008_5.png"
+        },
+        "goblet": {
+          "chs": "染血骑士之杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15008_1.png"
+        },
+        "circlet": {
+          "chs": "染血的铁假面",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15008_3.png"
+        }
+      }
+    },
+    "braveHeart": {
+      "eng": "braveHeart",
+      "chs": "勇士之心",
+      "slots": {
+        "flower": {
+          "chs": "勇士的勋章",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10002_4.png"
+        },
+        "plume": {
+          "chs": "勇士的期许",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10002_2.png"
+        },
+        "sands": {
+          "chs": "勇士的坚毅",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10002_5.png"
+        },
+        "goblet": {
+          "chs": "勇士的壮行",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10002_1.png"
+        },
+        "circlet": {
+          "chs": "勇士的冠冕",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10002_3.png"
+        }
+      }
+    },
+    "crimsonWitch": {
+      "eng": "crimsonWitch",
+      "chs": "炽烈的炎之魔女",
+      "slots": {
+        "flower": {
+          "chs": "魔女的炎之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15006_4.png"
+        },
+        "plume": {
+          "chs": "魔女常燃之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15006_2.png"
+        },
+        "sands": {
+          "chs": "魔女破灭之时",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15006_5.png"
+        },
+        "goblet": {
+          "chs": "魔女的心之火",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15006_1.png"
+        },
+        "circlet": {
+          "chs": "焦灼的魔女帽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15006_3.png"
+        }
+      }
+    },
+    "deepwoodMemories": {
+      "eng": "DeepwoodMemories",
+      "chs": "深林的记忆",
+      "slots": {
+        "flower": {
+          "chs": "迷宫的游人",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15025_4.png"
+        },
+        "plume": {
+          "chs": "翠蔓的智者",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15025_2.png"
+        },
+        "sands": {
+          "chs": "贤智的定期",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15025_5.png"
+        },
+        "goblet": {
+          "chs": "迷误者之灯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15025_1.png"
+        },
+        "circlet": {
+          "chs": "月桂的宝冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15025_3.png"
+        }
+      }
+    },
+    "defenderWill": {
+      "eng": "defenderWill",
+      "chs": "守护之心",
+      "slots": {
+        "flower": {
+          "chs": "守护之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10003_4.png"
+        },
+        "plume": {
+          "chs": "守护徽印",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10003_2.png"
+        },
+        "sands": {
+          "chs": "守护座钟",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10003_5.png"
+        },
+        "goblet": {
+          "chs": "守护之皿",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10003_1.png"
+        },
+        "circlet": {
+          "chs": "守护束带",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10003_3.png"
+        }
+      }
+    },
+    "desertPavilionChronicle": {
+      "eng": "DesertPavilionChronicle",
+      "chs": "沙上楼阁史话",
+      "slots": {
+        "flower": {
+          "chs": "众王之都的开端",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15027_4.png"
+        },
+        "plume": {
+          "chs": "黄金邦国的结末",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15027_2.png"
+        },
+        "sands": {
+          "chs": "失落迷途的机芯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15027_5.png"
+        },
+        "goblet": {
+          "chs": "迷醉长梦的守护",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15027_1.png"
+        },
+        "circlet": {
+          "chs": "流沙贵嗣的遗宝",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15027_3.png"
+        }
+      }
+    },
+    "echoesOfAnOffering": {
+      "eng": "EchoesOfAnOffering",
+      "chs": "来歆余响",
+      "slots": {
+        "flower": {
+          "chs": "魂香之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15024_4.png"
+        },
+        "plume": {
+          "chs": "垂玉之叶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15024_2.png"
+        },
+        "sands": {
+          "chs": "祝祀之凭",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15024_5.png"
+        },
+        "goblet": {
+          "chs": "涌泉之盏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15024_1.png"
+        },
+        "circlet": {
+          "chs": "浮溯之珏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15024_3.png"
+        }
+      }
+    },
+    "emblemOfSeveredFate": {
+      "eng": "emblemOfSeveredFate",
+      "chs": "绝缘之旗印",
+      "slots": {
+        "flower": {
+          "chs": "明威之镡",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15020_4.png"
+        },
+        "plume": {
+          "chs": "切落之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15020_2.png"
+        },
+        "sands": {
+          "chs": "雷云之笼",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15020_5.png"
+        },
+        "goblet": {
+          "chs": "绯花之壶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15020_1.png"
+        },
+        "circlet": {
+          "chs": "华饰之兜",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15020_3.png"
+        }
+      }
+    },
+    "finaleOfTheDeepGalleries": {
+      "eng": "FinaleOfTheDeepGalleries",
+      "chs": "深廊终曲",
+      "slots": {
+        "flower": {
+          "chs": "深廊的回奏之歌",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15040_4.png"
+        },
+        "plume": {
+          "chs": "深廊的漫远之约",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15040_2.png"
+        },
+        "sands": {
+          "chs": "深廊的湮落之刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15040_5.png"
+        },
+        "goblet": {
+          "chs": "深廊的饫赐之宴",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15040_1.png"
+        },
+        "circlet": {
+          "chs": "深廊的遂失之冕",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15040_3.png"
+        }
+      }
+    },
+    "flowerOfParadiseLost": {
+      "eng": "FlowerOfParadiseLost",
+      "chs": "乐园遗落之花",
+      "slots": {
+        "flower": {
+          "chs": "月女的华彩",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15028_4.png"
+        },
+        "plume": {
+          "chs": "谢落的筵席",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15028_2.png"
+        },
+        "sands": {
+          "chs": "凝结的时刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15028_5.png"
+        },
+        "goblet": {
+          "chs": "守秘的魔瓶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15028_1.png"
+        },
+        "circlet": {
+          "chs": "紫晶的花冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15028_3.png"
+        }
+      }
+    },
+    "fragmentOfHarmonicWhimsy": {
+      "eng": "FragmentOfHarmonicWhimsy",
+      "chs": "谐律异想断章",
+      "slots": {
+        "flower": {
+          "chs": "谐律交响的前奏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15035_4.png"
+        },
+        "plume": {
+          "chs": "古海玄幽的夜想",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15035_2.png"
+        },
+        "sands": {
+          "chs": "命途轮转的谐谑",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15035_5.png"
+        },
+        "goblet": {
+          "chs": "灵露倾洒的狂诗",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15035_1.png"
+        },
+        "circlet": {
+          "chs": "异想零落的圆舞",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15035_3.png"
+        }
+      }
+    },
+    "gambler": {
+      "eng": "gambler",
+      "chs": "赌徒",
+      "slots": {
+        "flower": {
+          "chs": "赌徒的胸花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10008_4.png"
+        },
+        "plume": {
+          "chs": "赌徒的羽饰",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10008_2.png"
+        },
+        "sands": {
+          "chs": "赌徒的怀表",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10008_5.png"
+        },
+        "goblet": {
+          "chs": "赌徒的骰盅",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10008_1.png"
+        },
+        "circlet": {
+          "chs": "赌徒的耳环",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10008_3.png"
+        }
+      }
+    },
+    "gildedDreams": {
+      "eng": "GildedDreams",
+      "chs": "饰金之梦",
+      "slots": {
+        "flower": {
+          "chs": "梦中的铁花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15026_4.png"
+        },
+        "plume": {
+          "chs": "裁断的翎羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15026_2.png"
+        },
+        "sands": {
+          "chs": "沉金的岁月",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15026_5.png"
+        },
+        "goblet": {
+          "chs": "如蜜的终宴",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15026_1.png"
+        },
+        "circlet": {
+          "chs": "沙王的投影",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15026_3.png"
+        }
+      }
+    },
+    "gladiatorFinale": {
+      "eng": "gladiatorFinale",
+      "chs": "角斗士的终幕礼",
+      "slots": {
+        "flower": {
+          "chs": "角斗士的留恋",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15001_4.png"
+        },
+        "plume": {
+          "chs": "角斗士的归宿",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15001_2.png"
+        },
+        "sands": {
+          "chs": "角斗士的希冀",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15001_5.png"
+        },
+        "goblet": {
+          "chs": "角斗士的酣醉",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15001_1.png"
+        },
+        "circlet": {
+          "chs": "角斗士的凯旋",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15001_3.png"
+        }
+      }
+    },
+    "goldenTroupe": {
+      "eng": "GoldenTroupe",
+      "chs": "黄金剧团",
+      "slots": {
+        "flower": {
+          "chs": "黄金乐曲的变奏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15032_4.png"
+        },
+        "plume": {
+          "chs": "黄金飞鸟的落羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15032_2.png"
+        },
+        "sands": {
+          "chs": "黄金时代的先声",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15032_5.png"
+        },
+        "goblet": {
+          "chs": "黄金之夜的喧嚣",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15032_1.png"
+        },
+        "circlet": {
+          "chs": "黄金剧团的奖赏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15032_3.png"
+        }
+      }
+    },
+    "heartOfDepth": {
+      "eng": "heartOfDepth",
+      "chs": "沉沦之心",
+      "slots": {
+        "flower": {
+          "chs": "饰金胸花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15016_4.png"
+        },
+        "plume": {
+          "chs": "追忆之风",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15016_2.png"
+        },
+        "sands": {
+          "chs": "坚铜罗盘",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15016_5.png"
+        },
+        "goblet": {
+          "chs": "沉波之盏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15016_1.png"
+        },
+        "circlet": {
+          "chs": "酒渍船帽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15016_3.png"
+        }
+      }
+    },
+    "huskOfOpulentDreams": {
+      "eng": "huskOfOpulentDreams",
+      "chs": "华馆梦醒形骸记",
+      "slots": {
+        "flower": {
+          "chs": "荣花之期",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15021_4.png"
+        },
+        "plume": {
+          "chs": "华馆之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15021_2.png"
+        },
+        "sands": {
+          "chs": "众生之谣",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15021_5.png"
+        },
+        "goblet": {
+          "chs": "梦醒之瓢",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15021_1.png"
+        },
+        "circlet": {
+          "chs": "形骸之笠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15021_3.png"
+        }
+      }
+    },
+    "instructor": {
+      "eng": "instructor",
+      "chs": "教官",
+      "slots": {
+        "flower": {
+          "chs": "教官的胸花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10007_4.png"
+        },
+        "plume": {
+          "chs": "教官的羽饰",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10007_2.png"
+        },
+        "sands": {
+          "chs": "教官的怀表",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10007_5.png"
+        },
+        "goblet": {
+          "chs": "教官的茶杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10007_1.png"
+        },
+        "circlet": {
+          "chs": "教官的帽子",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10007_3.png"
+        }
+      }
+    },
+    "lavaWalker": {
+      "eng": "lavaWalker",
+      "chs": "渡过烈火的贤人",
+      "slots": {
+        "flower": {
+          "chs": "渡火者的决绝",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14003_4.png"
+        },
+        "plume": {
+          "chs": "渡火者的解脱",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14003_2.png"
+        },
+        "sands": {
+          "chs": "渡火者的煎熬",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14003_5.png"
+        },
+        "goblet": {
+          "chs": "渡火者的醒悟",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14003_1.png"
+        },
+        "circlet": {
+          "chs": "渡火者的智慧",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14003_3.png"
+        }
+      }
+    },
+    "longNightsOath": {
+      "eng": "LongNightsOath",
+      "chs": "长夜之誓",
+      "slots": {
+        "flower": {
+          "chs": "执灯人的誓词",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15039_4.png"
+        },
+        "plume": {
+          "chs": "夜鸣莺的尾羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15039_2.png"
+        },
+        "sands": {
+          "chs": "不死者的哀铃",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15039_5.png"
+        },
+        "goblet": {
+          "chs": "未吹响的号角",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15039_1.png"
+        },
+        "circlet": {
+          "chs": "被浸染的缨盔",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15039_3.png"
+        }
+      }
+    },
+    "luckyDog": {
+      "eng": "luckyDog",
+      "chs": "幸运儿",
+      "slots": {
+        "flower": {
+          "chs": "幸运儿绿花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10011_4.png"
+        },
+        "plume": {
+          "chs": "幸运儿鹰羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10011_2.png"
+        },
+        "sands": {
+          "chs": "幸运儿沙漏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10011_5.png"
+        },
+        "goblet": {
+          "chs": "幸运儿之杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10011_1.png"
+        },
+        "circlet": {
+          "chs": "幸运儿银冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10011_3.png"
+        }
+      }
+    },
+    "maidenBeloved": {
+      "eng": "maidenBeloved",
+      "chs": "被怜爱的少女",
+      "slots": {
+        "flower": {
+          "chs": "远方的少女之心",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14004_4.png"
+        },
+        "plume": {
+          "chs": "少女飘摇的思念",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14004_2.png"
+        },
+        "sands": {
+          "chs": "少女苦短的良辰",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14004_5.png"
+        },
+        "goblet": {
+          "chs": "少女片刻的闲暇",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14004_1.png"
+        },
+        "circlet": {
+          "chs": "少女易逝的芳颜",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14004_3.png"
+        }
+      }
+    },
+    "marechausseeHunter": {
+      "eng": "MarechausseeHunter",
+      "chs": "逐影猎人",
+      "slots": {
+        "flower": {
+          "chs": "猎人的胸花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15031_4.png"
+        },
+        "plume": {
+          "chs": "杰作的序曲",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15031_2.png"
+        },
+        "sands": {
+          "chs": "裁判的时刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15031_5.png"
+        },
+        "goblet": {
+          "chs": "遗忘的容器",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15031_1.png"
+        },
+        "circlet": {
+          "chs": "老兵的容颜",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15031_3.png"
+        }
+      }
+    },
+    "martialArtist": {
+      "eng": "martialArtist",
+      "chs": "武人",
+      "slots": {
+        "flower": {
+          "chs": "武人的红花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10006_4.png"
+        },
+        "plume": {
+          "chs": "武人的羽饰",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10006_2.png"
+        },
+        "sands": {
+          "chs": "武人的水漏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10006_5.png"
+        },
+        "goblet": {
+          "chs": "武人的酒杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10006_1.png"
+        },
+        "circlet": {
+          "chs": "武人的头巾",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10006_3.png"
+        }
+      }
+    },
+    "nighttimeWhispersInTheEchoingWoods": {
+      "eng": "NighttimeWhispersInTheEchoingWoods",
+      "chs": "回声之林夜话",
+      "slots": {
+        "flower": {
+          "chs": "无私的妆饰花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15034_4.png"
+        },
+        "plume": {
+          "chs": "诚恳的蘸水笔",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15034_2.png"
+        },
+        "sands": {
+          "chs": "忠实的砂时计",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15034_5.png"
+        },
+        "goblet": {
+          "chs": "慷慨的墨水瓶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15034_1.png"
+        },
+        "circlet": {
+          "chs": "慈爱的淑女帽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15034_3.png"
+        }
+      }
+    },
+    "noblesseOblige": {
+      "eng": "noblesseOblige",
+      "chs": "昔日宗室之仪",
+      "slots": {
+        "flower": {
+          "chs": "宗室之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15007_4.png"
+        },
+        "plume": {
+          "chs": "宗室之翎",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15007_2.png"
+        },
+        "sands": {
+          "chs": "宗室时计",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15007_5.png"
+        },
+        "goblet": {
+          "chs": "宗室银瓮",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15007_1.png"
+        },
+        "circlet": {
+          "chs": "宗室面具",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15007_3.png"
+        }
+      }
+    },
+    "nymphsDream": {
+      "eng": "NymphsDream",
+      "chs": "水仙之梦",
+      "slots": {
+        "flower": {
+          "chs": "旅途中的鲜花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15029_4.png"
+        },
+        "plume": {
+          "chs": "坏巫师的羽杖",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15029_2.png"
+        },
+        "sands": {
+          "chs": "水仙的时时刻刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15029_5.png"
+        },
+        "goblet": {
+          "chs": "勇者们的茶会",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15029_1.png"
+        },
+        "circlet": {
+          "chs": "恶龙的单片镜",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15029_3.png"
+        }
+      }
+    },
+    "obsidianCodex": {
+      "eng": "ObsidianCodex",
+      "chs": "黑曜秘典",
+      "slots": {
+        "flower": {
+          "chs": "异种的期许",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15038_4.png"
+        },
+        "plume": {
+          "chs": "灵髓的根脉",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15038_2.png"
+        },
+        "sands": {
+          "chs": "夜域的迷思",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15038_5.png"
+        },
+        "goblet": {
+          "chs": "纷争的前宴",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15038_1.png"
+        },
+        "circlet": {
+          "chs": "诸圣的礼冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15038_3.png"
+        }
+      }
+    },
+    "oceanHuedClam": {
+      "eng": "oceanHuedClam",
+      "chs": "海染砗磲",
+      "slots": {
+        "flower": {
+          "chs": "海染之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15022_4.png"
+        },
+        "plume": {
+          "chs": "渊宫之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15022_2.png"
+        },
+        "sands": {
+          "chs": "离别之贝",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15022_5.png"
+        },
+        "goblet": {
+          "chs": "真珠之笼",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15022_1.png"
+        },
+        "circlet": {
+          "chs": "海祇之冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15022_3.png"
+        }
+      }
+    },
+    "paleFlame": {
+      "eng": "paleFlame",
+      "chs": "苍白之火",
+      "slots": {
+        "flower": {
+          "chs": "无垢之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15018_4.png"
+        },
+        "plume": {
+          "chs": "贤医之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15018_2.png"
+        },
+        "sands": {
+          "chs": "停摆之刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15018_5.png"
+        },
+        "goblet": {
+          "chs": "超越之盏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15018_1.png"
+        },
+        "circlet": {
+          "chs": "嗤笑之面",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15018_3.png"
+        }
+      }
+    },
+    "prayersForDestiny": {
+      "eng": "prayersForDestiny",
+      "chs": "祭水之人",
+      "slots": {
+        "circlet": {
+          "chs": "祭水礼冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15010_3.png"
+        }
+      }
+    },
+    "prayersForIllumination": {
+      "eng": "prayersForIllumination",
+      "chs": "祭火之人",
+      "slots": {
+        "circlet": {
+          "chs": "祭火礼冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15009_3.png"
+        }
+      }
+    },
+    "prayersForWisdom": {
+      "eng": "prayersForWisdom",
+      "chs": "祭雷之人",
+      "slots": {
+        "circlet": {
+          "chs": "祭雷礼冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15011_3.png"
+        }
+      }
+    },
+    "prayersToSpringtime": {
+      "eng": "prayersToSpringtime",
+      "chs": "祭冰之人",
+      "slots": {
+        "circlet": {
+          "chs": "祭冰礼冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15013_3.png"
+        }
+      }
+    },
+    "resolutionOfSojourner": {
+      "eng": "resolutionOfSojourner",
+      "chs": "行者之心",
+      "slots": {
+        "flower": {
+          "chs": "故人之心",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10001_4.png"
+        },
+        "plume": {
+          "chs": "归乡之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10001_2.png"
+        },
+        "sands": {
+          "chs": "逐光之石",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10001_5.png"
+        },
+        "goblet": {
+          "chs": "异国之盏",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10001_1.png"
+        },
+        "circlet": {
+          "chs": "感别之冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10001_3.png"
+        }
+      }
+    },
+    "retracingBolide": {
+      "eng": "retracingBolide",
+      "chs": "逆飞的流星",
+      "slots": {
+        "flower": {
+          "chs": "夏祭之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15015_4.png"
+        },
+        "plume": {
+          "chs": "夏祭终末",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15015_2.png"
+        },
+        "sands": {
+          "chs": "夏祭之刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15015_5.png"
+        },
+        "goblet": {
+          "chs": "夏祭水玉",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15015_1.png"
+        },
+        "circlet": {
+          "chs": "夏祭之面",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15015_3.png"
+        }
+      }
+    },
+    "scholar": {
+      "eng": "scholar",
+      "chs": "学士",
+      "slots": {
+        "flower": {
+          "chs": "学士的书签",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10012_4.png"
+        },
+        "plume": {
+          "chs": "学士的羽笔",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10012_2.png"
+        },
+        "sands": {
+          "chs": "学士的时钟",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10012_5.png"
+        },
+        "goblet": {
+          "chs": "学士的墨杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10012_1.png"
+        },
+        "circlet": {
+          "chs": "学士的镜片",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10012_3.png"
+        }
+      }
+    },
+    "scrollOfTheHeroOfCinderCity": {
+      "eng": "ScrollOfTheHeroOfCinderCity",
+      "chs": "烬城勇者绘卷",
+      "slots": {
+        "flower": {
+          "chs": "驯兽师的护符",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15037_4.png"
+        },
+        "plume": {
+          "chs": "巡山客的信标",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15037_2.png"
+        },
+        "sands": {
+          "chs": "秘术家的金盘",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15037_5.png"
+        },
+        "goblet": {
+          "chs": "游学者的爪杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15037_1.png"
+        },
+        "circlet": {
+          "chs": "魔战士的羽面",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15037_3.png"
+        }
+      }
+    },
+    "shimenawaReminiscence": {
+      "eng": "shimenawaReminiscence",
+      "chs": "追忆之注连",
+      "slots": {
+        "flower": {
+          "chs": "羁缠之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15019_4.png"
+        },
+        "plume": {
+          "chs": "思忆之矢",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15019_2.png"
+        },
+        "sands": {
+          "chs": "朝露之时",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15019_5.png"
+        },
+        "goblet": {
+          "chs": "祈望之心",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15019_1.png"
+        },
+        "circlet": {
+          "chs": "无常之面",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15019_3.png"
+        }
+      }
+    },
+    "songOfDaysPast": {
+      "eng": "SongOfDaysPast",
+      "chs": "昔时之歌",
+      "slots": {
+        "flower": {
+          "chs": "昔时遗落之誓",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15033_4.png"
+        },
+        "plume": {
+          "chs": "昔时浮想之思",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15033_2.png"
+        },
+        "sands": {
+          "chs": "昔时回映之音",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15033_5.png"
+        },
+        "goblet": {
+          "chs": "昔时应许之梦",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15033_1.png"
+        },
+        "circlet": {
+          "chs": "昔时传奏之诗",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15033_3.png"
+        }
+      }
+    },
+    "tenacityOfTheMillelith": {
+      "eng": "tenacityOfTheMillelith",
+      "chs": "千岩牢固",
+      "slots": {
+        "flower": {
+          "chs": "勋绩之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15017_4.png"
+        },
+        "plume": {
+          "chs": "昭武翎羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15017_2.png"
+        },
+        "sands": {
+          "chs": "金铜时晷",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15017_5.png"
+        },
+        "goblet": {
+          "chs": "盟誓金爵",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15017_1.png"
+        },
+        "circlet": {
+          "chs": "将帅兜鍪",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15017_3.png"
+        }
+      }
+    },
+    "exile": {
+      "eng": "exile",
+      "chs": "流放者",
+      "slots": {
+        "flower": {
+          "chs": "流放者之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10009_4.png"
+        },
+        "plume": {
+          "chs": "流放者之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10009_2.png"
+        },
+        "sands": {
+          "chs": "流放者怀表",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10009_5.png"
+        },
+        "goblet": {
+          "chs": "流放者之杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10009_1.png"
+        },
+        "circlet": {
+          "chs": "流放者头冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10009_3.png"
+        }
+      }
+    },
+    "thunderingFury": {
+      "eng": "thunderingFury",
+      "chs": "如雷的盛怒",
+      "slots": {
+        "flower": {
+          "chs": "雷鸟的怜悯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15005_4.png"
+        },
+        "plume": {
+          "chs": "雷灾的孑遗",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15005_2.png"
+        },
+        "sands": {
+          "chs": "雷霆的时计",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15005_5.png"
+        },
+        "goblet": {
+          "chs": "降雷的凶兆",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15005_1.png"
+        },
+        "circlet": {
+          "chs": "唤雷的头冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15005_3.png"
+        }
+      }
+    },
+    "thunderSmoother": {
+      "eng": "thunderSmoother",
+      "chs": "平息鸣雷的尊者",
+      "slots": {
+        "flower": {
+          "chs": "平雷之心",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14002_4.png"
+        },
+        "plume": {
+          "chs": "平雷之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14002_2.png"
+        },
+        "sands": {
+          "chs": "平雷之刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14002_5.png"
+        },
+        "goblet": {
+          "chs": "平雷之器",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14002_1.png"
+        },
+        "circlet": {
+          "chs": "平雷之冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_14002_3.png"
+        }
+      }
+    },
+    "tinyMiracle": {
+      "eng": "tinyMiracle",
+      "chs": "奇迹",
+      "slots": {
+        "flower": {
+          "chs": "奇迹之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10004_4.png"
+        },
+        "plume": {
+          "chs": "奇迹之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10004_2.png"
+        },
+        "sands": {
+          "chs": "奇迹之沙",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10004_5.png"
+        },
+        "goblet": {
+          "chs": "奇迹之杯",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10004_1.png"
+        },
+        "circlet": {
+          "chs": "奇迹耳坠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10004_3.png"
+        }
+      }
+    },
+    "travelingDoctor": {
+      "eng": "travelingDoctor",
+      "chs": "游医",
+      "slots": {
+        "flower": {
+          "chs": "游医的银莲",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10013_4.png"
+        },
+        "plume": {
+          "chs": "游医的枭羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10013_2.png"
+        },
+        "sands": {
+          "chs": "游医的怀钟",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10013_5.png"
+        },
+        "goblet": {
+          "chs": "游医的药壶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10013_1.png"
+        },
+        "circlet": {
+          "chs": "游医的方巾",
+          "icon_url": "/artifact-icons/UI_RelicIcon_10013_3.png"
+        }
+      }
+    },
+    "unfinishedReverie": {
+      "eng": "UnfinishedReverie",
+      "chs": "未竟的遐思",
+      "slots": {
+        "flower": {
+          "chs": "暗结的明花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15036_4.png"
+        },
+        "plume": {
+          "chs": "褪光的翠尾",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15036_2.png"
+        },
+        "sands": {
+          "chs": "举业的识刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15036_5.png"
+        },
+        "goblet": {
+          "chs": "筹谋的共樽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15036_1.png"
+        },
+        "circlet": {
+          "chs": "失冕的宝冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15036_3.png"
+        }
+      }
+    },
+    "vermillionHereafter": {
+      "eng": "VermillionHereafter",
+      "chs": "辰砂往生录",
+      "slots": {
+        "flower": {
+          "chs": "生灵之华",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15023_4.png"
+        },
+        "plume": {
+          "chs": "潜光片羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15023_2.png"
+        },
+        "sands": {
+          "chs": "阳辔之遗",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15023_5.png"
+        },
+        "goblet": {
+          "chs": "结契之刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15023_1.png"
+        },
+        "circlet": {
+          "chs": "虺雷之姿",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15023_3.png"
+        }
+      }
+    },
+    "viridescentVenerer": {
+      "eng": "viridescentVenerer",
+      "chs": "翠绿之影",
+      "slots": {
+        "flower": {
+          "chs": "野花记忆的绿野",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15002_4.png"
+        },
+        "plume": {
+          "chs": "猎人青翠的箭羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15002_2.png"
+        },
+        "sands": {
+          "chs": "翠绿猎人的笃定",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15002_5.png"
+        },
+        "goblet": {
+          "chs": "翠绿猎人的容器",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15002_1.png"
+        },
+        "circlet": {
+          "chs": "翠绿的猎人之冠",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15002_3.png"
+        }
+      }
+    },
+    "vourukashasGlow": {
+      "eng": "VourukashasGlow",
+      "chs": "花海甘露之光",
+      "slots": {
+        "flower": {
+          "chs": "灵光源起之蕊",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15030_4.png"
+        },
+        "plume": {
+          "chs": "琦色灵彩之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15030_2.png"
+        },
+        "sands": {
+          "chs": "久远花落之时",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15030_5.png"
+        },
+        "goblet": {
+          "chs": "无边酣乐之筵",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15030_1.png"
+        },
+        "circlet": {
+          "chs": "灵光明烁之心",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15030_3.png"
+        }
+      }
+    },
+    "wandererTroupe": {
+      "eng": "wandererTroupe",
+      "chs": "流浪大地的乐团",
+      "slots": {
+        "flower": {
+          "chs": "乐团的晨光",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15003_4.png"
+        },
+        "plume": {
+          "chs": "琴师的箭羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15003_2.png"
+        },
+        "sands": {
+          "chs": "终幕的时计",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15003_5.png"
+        },
+        "goblet": {
+          "chs": "吟游者之壶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15003_1.png"
+        },
+        "circlet": {
+          "chs": "指挥的礼帽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15003_3.png"
+        }
+      }
+    },
+    "realmMirrorNight": {
+      "eng": "RealmMirrorNight",
+      "chs": "穹境示现之夜",
+      "slots": {
+        "flower": {
+          "chs": "渴真之花",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15041_4.png"
+        },
+        "plume": {
+          "chs": "深罪之羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15041_2.png"
+        },
+        "sands": {
+          "chs": "谕告之钟",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15041_5.png"
+        },
+        "goblet": {
+          "chs": "满溢之壶",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15041_1.png"
+        },
+        "circlet": {
+          "chs": "永劫之冕",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15041_3.png"
+        }
+      }
+    },
+    "spinMoonSerenade": {
+      "eng": "SpinMoonSerenade",
+      "chs": "纺月的夜歌",
+      "slots": {
+        "flower": {
+          "chs": "流离者的晶泪",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15042_4.png"
+        },
+        "plume": {
+          "chs": "受福者的白羽",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15042_2.png"
+        },
+        "sands": {
+          "chs": "祭霜者的迷狂",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15042_5.png"
+        },
+        "goblet": {
+          "chs": "至纯者的欢荣",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15042_1.png"
+        },
+        "circlet": {
+          "chs": "司信者的圣冕",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15042_3.png"
+        }
+      }
+    },
+    "aubadeOfMorningstarAndMoon": {
+      "eng": "AubadeOfMorningstarAndMoon",
+      "chs": "晨星与月的晓歌",
+      "slots": {
+        "flower": {
+          "chs": "献与月的华梦",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15043_4.png"
+        },
+        "plume": {
+          "chs": "献与月的离光",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15043_2.png"
+        },
+        "sands": {
+          "chs": "献与月的终时",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15043_5.png"
+        },
+        "goblet": {
+          "chs": "献与月的酹祭",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15043_1.png"
+        },
+        "circlet": {
+          "chs": "献与月的银冕",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15043_3.png"
+        }
+      }
+    },
+    "aDayCarvedFromRisingWinds": {
+      "eng": "ADayCarvedFromRisingWinds",
+      "chs": "风起之日",
+      "slots": {
+        "flower": {
+          "chs": "风花的箴铭",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15044_4.png"
+        },
+        "plume": {
+          "chs": "晨光的明誓",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15044_2.png"
+        },
+        "sands": {
+          "chs": "春律的片刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15044_5.png"
+        },
+        "goblet": {
+          "chs": "未言的宴话",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15044_1.png"
+        },
+        "circlet": {
+          "chs": "哀慕的恋歌",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15044_3.png"
+        }
+      }
+    },
+    "celestialGift": {
+      "eng": "CelestialGift",
+      "chs": "天之美赐",
+      "slots": {
+        "flower": {
+          "chs": "天授之馨",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15045_4.png"
+        },
+        "plume": {
+          "chs": "天授之殁",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15045_2.png"
+        },
+        "sands": {
+          "chs": "天授之令",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15045_5.png"
+        },
+        "goblet": {
+          "chs": "天授之禄",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15045_1.png"
+        },
+        "circlet": {
+          "chs": "天授之冕",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15045_3.png"
+        }
+      }
+    },
+    "disenchantmentInDeepShadow": {
+      "eng": "DisenchantmentInDeepShadow",
+      "chs": "影中沉凝的幻灭",
+      "slots": {
+        "flower": {
+          "chs": "止于荣礼的缎彩",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15046_4.png"
+        },
+        "plume": {
+          "chs": "止于妙想成型的锋毫",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15046_2.png"
+        },
+        "sands": {
+          "chs": "止于宏伟梦醒的时刻",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15046_5.png"
+        },
+        "goblet": {
+          "chs": "止于祝庆的喝礼",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15046_1.png"
+        },
+        "circlet": {
+          "chs": "止于阔步跌坠的灵摆",
+          "icon_url": "/artifact-icons/UI_RelicIcon_15046_3.png"
+        }
+      }
+    }
+  },
+  "chs_by_eng": {
+    "adventurer": "冒险家",
+    "archaicPetra": "悠古的磐岩",
+    "berserker": "战狂",
+    "blizzardStrayer": "冰风迷途的勇士",
+    "bloodstainedChivalry": "染血的骑士道",
+    "braveHeart": "勇士之心",
+    "crimsonWitch": "炽烈的炎之魔女",
+    "DeepwoodMemories": "深林的记忆",
+    "defenderWill": "守护之心",
+    "DesertPavilionChronicle": "沙上楼阁史话",
+    "EchoesOfAnOffering": "来歆余响",
+    "emblemOfSeveredFate": "绝缘之旗印",
+    "FinaleOfTheDeepGalleries": "深廊终曲",
+    "FlowerOfParadiseLost": "乐园遗落之花",
+    "FragmentOfHarmonicWhimsy": "谐律异想断章",
+    "gambler": "赌徒",
+    "GildedDreams": "饰金之梦",
+    "gladiatorFinale": "角斗士的终幕礼",
+    "GoldenTroupe": "黄金剧团",
+    "heartOfDepth": "沉沦之心",
+    "huskOfOpulentDreams": "华馆梦醒形骸记",
+    "instructor": "教官",
+    "lavaWalker": "渡过烈火的贤人",
+    "LongNightsOath": "长夜之誓",
+    "luckyDog": "幸运儿",
+    "maidenBeloved": "被怜爱的少女",
+    "MarechausseeHunter": "逐影猎人",
+    "martialArtist": "武人",
+    "NighttimeWhispersInTheEchoingWoods": "回声之林夜话",
+    "noblesseOblige": "昔日宗室之仪",
+    "NymphsDream": "水仙之梦",
+    "ObsidianCodex": "黑曜秘典",
+    "oceanHuedClam": "海染砗磲",
+    "paleFlame": "苍白之火",
+    "prayersForDestiny": "祭水之人",
+    "prayersForIllumination": "祭火之人",
+    "prayersForWisdom": "祭雷之人",
+    "prayersToSpringtime": "祭冰之人",
+    "resolutionOfSojourner": "行者之心",
+    "retracingBolide": "逆飞的流星",
+    "scholar": "学士",
+    "ScrollOfTheHeroOfCinderCity": "烬城勇者绘卷",
+    "shimenawaReminiscence": "追忆之注连",
+    "SongOfDaysPast": "昔时之歌",
+    "tenacityOfTheMillelith": "千岩牢固",
+    "exile": "流放者",
+    "thunderingFury": "如雷的盛怒",
+    "thunderSmoother": "平息鸣雷的尊者",
+    "tinyMiracle": "奇迹",
+    "travelingDoctor": "游医",
+    "UnfinishedReverie": "未竟的遐思",
+    "VermillionHereafter": "辰砂往生录",
+    "viridescentVenerer": "翠绿之影",
+    "VourukashasGlow": "花海甘露之光",
+    "wandererTroupe": "流浪大地的乐团",
+    "RealmMirrorNight": "穹境示现之夜",
+    "SpinMoonSerenade": "纺月的夜歌",
+    "AubadeOfMorningstarAndMoon": "晨星与月的晓歌",
+    "ADayCarvedFromRisingWinds": "风起之日",
+    "CelestialGift": "天之美赐",
+    "DisenchantmentInDeepShadow": "影中沉凝的幻灭",
+    "HeavensGift": "天之美赐"
+  },
+  "chs_by_key": {
+    "adventurer": "冒险家",
+    "archaicPetra": "悠古的磐岩",
+    "berserker": "战狂",
+    "blizzardStrayer": "冰风迷途的勇士",
+    "bloodstainedChivalry": "染血的骑士道",
+    "braveHeart": "勇士之心",
+    "crimsonWitch": "炽烈的炎之魔女",
+    "deepwoodMemories": "深林的记忆",
+    "DeepwoodMemories": "深林的记忆",
+    "defenderWill": "守护之心",
+    "desertPavilionChronicle": "沙上楼阁史话",
+    "DesertPavilionChronicle": "沙上楼阁史话",
+    "echoesOfAnOffering": "来歆余响",
+    "EchoesOfAnOffering": "来歆余响",
+    "emblemOfSeveredFate": "绝缘之旗印",
+    "finaleOfTheDeepGalleries": "深廊终曲",
+    "FinaleOfTheDeepGalleries": "深廊终曲",
+    "flowerOfParadiseLost": "乐园遗落之花",
+    "FlowerOfParadiseLost": "乐园遗落之花",
+    "fragmentOfHarmonicWhimsy": "谐律异想断章",
+    "FragmentOfHarmonicWhimsy": "谐律异想断章",
+    "gambler": "赌徒",
+    "gildedDreams": "饰金之梦",
+    "GildedDreams": "饰金之梦",
+    "gladiatorFinale": "角斗士的终幕礼",
+    "goldenTroupe": "黄金剧团",
+    "GoldenTroupe": "黄金剧团",
+    "heartOfDepth": "沉沦之心",
+    "huskOfOpulentDreams": "华馆梦醒形骸记",
+    "instructor": "教官",
+    "lavaWalker": "渡过烈火的贤人",
+    "longNightsOath": "长夜之誓",
+    "LongNightsOath": "长夜之誓",
+    "luckyDog": "幸运儿",
+    "maidenBeloved": "被怜爱的少女",
+    "marechausseeHunter": "逐影猎人",
+    "MarechausseeHunter": "逐影猎人",
+    "martialArtist": "武人",
+    "nighttimeWhispersInTheEchoingWoods": "回声之林夜话",
+    "NighttimeWhispersInTheEchoingWoods": "回声之林夜话",
+    "noblesseOblige": "昔日宗室之仪",
+    "nymphsDream": "水仙之梦",
+    "NymphsDream": "水仙之梦",
+    "obsidianCodex": "黑曜秘典",
+    "ObsidianCodex": "黑曜秘典",
+    "oceanHuedClam": "海染砗磲",
+    "paleFlame": "苍白之火",
+    "prayersForDestiny": "祭水之人",
+    "prayersForIllumination": "祭火之人",
+    "prayersForWisdom": "祭雷之人",
+    "prayersToSpringtime": "祭冰之人",
+    "resolutionOfSojourner": "行者之心",
+    "retracingBolide": "逆飞的流星",
+    "scholar": "学士",
+    "scrollOfTheHeroOfCinderCity": "烬城勇者绘卷",
+    "ScrollOfTheHeroOfCinderCity": "烬城勇者绘卷",
+    "shimenawaReminiscence": "追忆之注连",
+    "songOfDaysPast": "昔时之歌",
+    "SongOfDaysPast": "昔时之歌",
+    "tenacityOfTheMillelith": "千岩牢固",
+    "exile": "流放者",
+    "thunderingFury": "如雷的盛怒",
+    "thunderSmoother": "平息鸣雷的尊者",
+    "tinyMiracle": "奇迹",
+    "travelingDoctor": "游医",
+    "unfinishedReverie": "未竟的遐思",
+    "UnfinishedReverie": "未竟的遐思",
+    "vermillionHereafter": "辰砂往生录",
+    "VermillionHereafter": "辰砂往生录",
+    "viridescentVenerer": "翠绿之影",
+    "vourukashasGlow": "花海甘露之光",
+    "VourukashasGlow": "花海甘露之光",
+    "wandererTroupe": "流浪大地的乐团",
+    "realmMirrorNight": "穹境示现之夜",
+    "RealmMirrorNight": "穹境示现之夜",
+    "spinMoonSerenade": "纺月的夜歌",
+    "SpinMoonSerenade": "纺月的夜歌",
+    "aubadeOfMorningstarAndMoon": "晨星与月的晓歌",
+    "AubadeOfMorningstarAndMoon": "晨星与月的晓歌",
+    "aDayCarvedFromRisingWinds": "风起之日",
+    "ADayCarvedFromRisingWinds": "风起之日",
+    "celestialGift": "天之美赐",
+    "CelestialGift": "天之美赐",
+    "disenchantmentInDeepShadow": "影中沉凝的幻灭",
+    "DisenchantmentInDeepShadow": "影中沉凝的幻灭",
+    "HeavensGift": "天之美赐",
+    "heavensGift": "天之美赐"
+  },
+  "icon_sources": {
+    "local_artifact_icons": "/artifact-icons/",
+    "enka_ui_base": "https://enka.network/ui/"
+  },
+  "enka_ui_base": "https://enka.network/ui/{}",
+  "local_icon_base": "/artifact-icons/"
+}

@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-07-16T17:42:57.678959+00:00",
+  "schema": "unified_single_tier_v1",
+  "stats": {
+    "hp": {
+      "stat": "hp",
+      "generated_at": "2026-07-16T17:42:57.728625+00:00",
+      "piece_count": 900,
+      "by_position": {
+        "flower": 65,
+        "feather": 163,
+        "sand": 224,
+        "cup": 224,
+        "head": 224
+      },
+      "by_star": {
+        "5": 240,
+        "4": 288,
+        "3": 260,
+        "2": 64,
+        "1": 48
+      },
+      "source_tags": {
+        "approved_5star": 240,
+        "approved_low_star": 260,
+        "low_star_candidate": 400
+      },
+      "schema": "unified_single_tier_v1"
+    },
+    "atk": {
+      "stat": "atk",
+      "generated_at": "2026-07-16T17:42:58.198712+00:00",
+      "piece_count": 729,
+      "by_position": {
+        "flower": 70,
+        "feather": 62,
+        "sand": 199,
+        "cup": 199,
+        "head": 199
+      },
+      "by_star": {
+        "5": 248,
+        "4": 196,
+        "3": 189,
+        "2": 60,
+        "1": 36
+      },
+      "source_tags": {
+        "approved_5star": 248,
+        "approved_low_star": 157,
+        "low_star_candidate": 324
+      },
+      "schema": "unified_single_tier_v1"
+    },
+    "def": {
+      "stat": "def",
+      "generated_at": "2026-07-16T17:42:58.651708+00:00",
+      "piece_count": 737,
+      "by_position": {
+        "flower": 133,
+        "feather": 130,
+        "sand": 158,
+        "cup": 158,
+        "head": 158
+      },
+      "by_star": {
+        "5": 278,
+        "4": 166,
+        "3": 205,
+        "2": 61,
+        "1": 27
+      },
+      "source_tags": {
+        "approved_5star": 278,
+        "low_star_candidate": 459
+      },
+      "schema": "unified_single_tier_v1"
+    },
+    "em": {
+      "stat": "em",
+      "generated_at": "2026-07-16T17:42:58.665213+00:00",
+      "piece_count": 518,
+      "by_position": {
+        "flower": 67,
+        "feather": 67,
+        "sand": 128,
+        "cup": 128,
+        "head": 128
+      },
+      "by_star": {
+        "5": 128,
+        "4": 116,
+        "3": 179,
+        "2": 55,
+        "1": 40
+      },
+      "source_tags": {
+        "approved_5star": 128,
+        "approved_low_star": 290,
+        "low_star_candidate": 100
+      },
+      "schema": "unified_single_tier_v1"
+    }
+  }
+}

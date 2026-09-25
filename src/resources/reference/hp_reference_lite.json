@@ -1,0 +1,3162 @@
+{
+  "tier": "lite",
+  "stat": "hp",
+  "flower": [
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 920.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 1123.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 1326.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 1530.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 1733.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 1936.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 2139.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 2342.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 2545.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 2749.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 2952.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 3155.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 3358.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 3561.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 3764.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 3967.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 4171.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 4374.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 4577.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 4780.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "feather": [
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "sand": [
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.07
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.09
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.11
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.129
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.149
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.169
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.189
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.209
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.228
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.248
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.268
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.288
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.308
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.328
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.347
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.367
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.387
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.407
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.427
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.446
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.466
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "cup": [
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.07
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.09
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.11
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.129
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.149
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.169
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.189
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.209
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.228
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.248
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.268
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.288
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.308
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.328
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.347
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.367
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.387
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.407
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.427
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.446
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.466
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "head": [
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 209.13
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 239.0
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 268.88
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "lifeStatic",
+          "value": 298.75
+        },
+        {
+          "name": "lifePercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.07
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.09
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.11
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.129
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.149
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.169
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.189
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.209
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.228
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.248
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.268
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.288
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.308
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.328
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.347
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.367
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.387
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.407
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.427
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.446
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "lifePercentage",
+        "value": 0.466
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ]
+}

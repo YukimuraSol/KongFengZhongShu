@@ -1,0 +1,4314 @@
+{
+  "tier": "standard",
+  "stat": "atk",
+  "flower": [
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 27.24
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 29.18
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 33.07
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 36.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 38.9
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 40.86
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 42.8
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0816
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0874
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0991
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1108
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1166
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1224
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1282
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1574
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1575
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "flower",
+      "mainTag": {
+        "name": "lifeStatic",
+        "value": 717.0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "feather": [
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 60.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 73.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 86.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 100.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 113.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 126.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 139.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 152.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 166.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 179.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 192.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 205.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 219.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 232.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 245.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 258.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 272.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 285.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 298.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 311.0
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "feather",
+      "mainTag": {
+        "name": "attackStatic",
+        "value": 47.0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "sand": [
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 27.24
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 29.18
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 33.07
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 36.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 38.9
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 40.86
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 42.8
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0816
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0874
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0991
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1108
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1166
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1224
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1282
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1574
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1575
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.07
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.09
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.11
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.129
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.149
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.169
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.189
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.209
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.228
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.248
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.268
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.288
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.308
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.328
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.347
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.367
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.387
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.407
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.427
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.446
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "sand",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.466
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "cup": [
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 27.24
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 29.18
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 33.07
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 36.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 38.9
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 40.86
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 42.8
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0816
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0874
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0991
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1108
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1166
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1224
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1282
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1574
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1575
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.07
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.09
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.11
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.129
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.149
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.169
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.189
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.209
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.228
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.248
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.268
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.288
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.308
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.328
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.347
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.367
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.387
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.407
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.427
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.446
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "cup",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.466
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ],
+  "head": [
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 27.24
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 29.18
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 33.07
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 36.96
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 38.9
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 40.86
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 42.8
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0816
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0874
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.0991
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1108
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1166
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1224
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1282
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1574
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackPercentage",
+          "value": 0.1575
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 13.62
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 15.56
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 17.51
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0408
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0466
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0525
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "其他",
+        "value": 0
+      },
+      "normalTags": [
+        {
+          "name": "attackStatic",
+          "value": 19.45
+        },
+        {
+          "name": "attackPercentage",
+          "value": 0.0583
+        }
+      ],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.07
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 0,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.09
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 1,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.11
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 2,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.129
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 3,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.149
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 4,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.169
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 5,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.189
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 6,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.209
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 7,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.228
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 8,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.248
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 9,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.268
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 10,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.288
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 11,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.308
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 12,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.328
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 13,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.347
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 14,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.367
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 15,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.387
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 16,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.407
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 17,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.427
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 18,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.446
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 19,
+      "star": 5,
+      "equip": null
+    },
+    {
+      "setName": "无",
+      "position": "head",
+      "mainTag": {
+        "name": "attackPercentage",
+        "value": 0.466
+      },
+      "normalTags": [],
+      "omit": false,
+      "level": 20,
+      "star": 5,
+      "equip": null
+    }
+  ]
+}
